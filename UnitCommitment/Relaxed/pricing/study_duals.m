@@ -21,7 +21,7 @@ lambda1*(value(Inertia_term(i))-value(FR_term(i)))+...
 
 
 
-H_price=(mu-lambda1)/InputData.f_0 % Price in £/MWs 
+H_price=(mu-lambda1)/InputData.f_0 % Price in Â£/MWs 
 % EFR_price=lambda2/sqrt(InputData.nadir_req)...
 %     -(mu-lambda1)*InputData.Td(1)/(4*InputData.nadir_req)
 PFRfast_price=(mu+lambda1)/InputData.Td(1)
@@ -36,4 +36,6 @@ Deloading_price = lambda2/(sqrt(InputData.nadir_req))
     
 
    
+   
+
    
