@@ -1,4 +1,7 @@
 # MultiFR_optimisation
+
+Note for this fork - Economic Dispatch is not altered, only included because it was in the original demo code provided by Luis Badesa. The UC case studys & set nadirs are adapted to an aggregate ERCOT framework. 
+
 Joint market clearing of energy and frequency services, including a pricing methodology.
 
 Frequency services include:
